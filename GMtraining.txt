@@ -1,0 +1,21 @@
+Technician:     379     Scott Himmelmann
+
+Date Submitted: 07/25/2016
+
+Training completed:
+                        Done  Submitted
+18044.23V       0.5 hrs  X      X
+18044.22V       1.0 hrs  X      X
+16043.52W1      2.0 hrs  X      X
+16043.52W2      2.0 hrs  X      X
+16043.52W3      2.0 hrs  X      X
+13042.12W       2.0 hrs  X      X
+22048.42W1      2.0 hrs  X      X
+----------------------------------
+Total           11.5 hrs
+
+10216.05V       1.0 hrs  X
+10216.06V       1.0 hrs  X
+17041.56W3      2.0 hrs  X
+19047.09W       2.0 hrs  X
+

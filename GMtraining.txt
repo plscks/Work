@@ -61,3 +61,12 @@ Training completed:
 16044.21D1     2.0 hrs  X       X
 ---------------------------------
                22.75 hrs
+
+
+Date Submitted:
+
+Training completed:
+                       Done   Submitted
+10216.07V       1.0 hrs X       
+10216.09V       1.0 hrs X
+16341.06V       0.5 hrs X

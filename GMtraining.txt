@@ -70,3 +70,6 @@ Training completed:
 10216.07V       1.0 hrs X       
 10216.09V       1.0 hrs X
 16341.06V       0.5 hrs X
+10216.14V       0.5 hrs X
+10216.10V       1.0 hrs X
+10216.11V       1.0 hrs X

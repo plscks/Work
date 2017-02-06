@@ -67,9 +67,11 @@ Date Submitted:02/06/2017
 
 Training completed:
                        Done   Submitted
-10216.07V       1.0 hrs X       
-10216.09V       1.0 hrs X
-16341.06V       0.5 hrs X
-10216.14V       0.5 hrs X
-10216.10V       1.0 hrs X
-10216.11V       1.0 hrs X
+10216.07V       1.0 hrs X       X
+10216.09V       1.0 hrs X       X
+16341.06V       0.5 hrs X       X
+10216.14V       0.5 hrs X       X
+10216.10V       1.0 hrs X       X
+10216.11V       1.0 hrs X       X
+---------------------------------
+Total           5.0 hrs

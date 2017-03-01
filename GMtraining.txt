@@ -88,3 +88,6 @@ Training completed:
 18044.20D1-R2  2.0 hrs  X
 18044.20D2-R2  2.0 hrs  X
 11044.05W3     1.0 hrs  X
+16040.31W      0.75hrs  X
+18044.40W      0.25hrs  X
+15045.18W6     0.5 hrs  

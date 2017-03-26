@@ -77,20 +77,30 @@ Training completed:
 Total           5.0 hrs
 
 
-Date Submitted:
+Date Submitted:02/2017
 
 Training completed:
                        Done   Submitted
-10216.12V      1.0 hrs  X
-10217.01V      1.0 hrs  X
-10217.02V      1.0 hrs  X
-16043.53W4     2.0 hrs  X
-18044.20D1-R2  2.0 hrs  X
-18044.20D2-R2  2.0 hrs  X
-11044.05W3     1.0 hrs  X
-16040.31W      0.75hrs  X
-18044.40W      0.25hrs  X
-15045.18W6     0.5 hrs  X
-16410.01W1     2.5 hrs  X
+10216.12V      1.0 hrs  X       X
+10217.01V      1.0 hrs  X       X
+10217.02V      1.0 hrs  X       X
+16043.53W4     2.0 hrs  X       X
+18044.20D1-R2  2.0 hrs  X       X
+18044.20D2-R2  2.0 hrs  X       X
+11044.05W3     1.0 hrs  X       X
+16040.31W      0.75hrs  X       X
+18044.40W      0.25hrs  X       X
+15045.18W6     0.5 hrs  X       X
+16410.01W1     2.5 hrs  X       X
 --------------------------------
-              14.0 hrs
+Total         14.0 hrs
+
+
+Date Submitted:03/27/2017
+
+Training completed:
+                       Done   Submitted 
+16410.01D1     2.0 hrs  X
+16410.01D2     2.0 hrs  X
+16410.01W2     2.0 hrs  X
+16410.01W3     2.0 hrs  X

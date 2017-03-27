@@ -100,7 +100,10 @@ Date Submitted:03/27/2017
 
 Training completed:
                        Done   Submitted 
-16410.01D1     2.0 hrs  X
-16410.01D2     2.0 hrs  X
-16410.01W2     2.0 hrs  X
-16410.01W3     2.0 hrs  X
+16410.01D1     2.0 hrs  X       X
+16410.01D2     2.0 hrs  X       X
+16410.01W2     2.0 hrs  X       X
+16410.01W3     2.0 hrs  X       X
+10217.03V      1.0 hrs  X       X
+-----------------------------------
+               9.0 hrs  

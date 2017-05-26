@@ -107,3 +107,19 @@ Training completed:
 10217.03V      1.0 hrs  X       X
 -----------------------------------
                9.0 hrs  
+
+
+Date Submitted: 
+
+Training completed:
+                        Done    Submitted
+22249.52W1     2.0 hrs   X       
+22249.52W2     2.0 hrs   X
+12040.34W1     2.0 hrs   X
+12040.34W2     0.5 hrs   X
+16240.62W      1.5 hrs   X
+16240.70W      1.0 hrs   X
+16240.71W      0.5 hrs   X
+18441.01W-R2   1.5 hrs   X
+10217.04V      1.0 hrs   X
+10217.05V      1.0 hrs   

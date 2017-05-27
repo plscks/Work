@@ -122,4 +122,10 @@ Training completed:
 16240.71W      0.5 hrs   X
 18441.01W-R2   1.5 hrs   X
 10217.04V      1.0 hrs   X
-10217.05V      1.0 hrs   
+10217.05V      1.0 hrs   X
+16410.01W4     0.8 hrs   X
+16410.10W      0.75hrs   X
+12040.32V      0.5 hrs   X
+13042.13V      0.25hrs   X
+17043.38W1     2.0 hrs   X
+

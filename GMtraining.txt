@@ -113,24 +113,32 @@ Date Submitted: 05/30/2017
 
 Training completed:
                         Done    Submitted
-22249.52W1     2.0 hrs   X       
-22249.52W2     2.0 hrs   X
-12040.34W1     2.0 hrs   X
-12040.34W2     0.5 hrs   X
-16240.62W      1.5 hrs   X
-16240.70W      1.0 hrs   X
-16240.71W      0.5 hrs   X
-18441.01W-R2   1.5 hrs   X
-10217.04V      1.0 hrs   X
-10217.05V      1.0 hrs   X
-16410.01W4     0.8 hrs   X
-16410.10W      0.75hrs   X
-12040.32V      0.5 hrs   X
-13042.13V      0.25hrs   X
-17043.38W1     2.0 hrs   X
-17043.38W2     1.5 hrs   X
-17043.38W3     1.0 hrs   X
-17043.38W4     1.0 hrs   X
-14041.18W1     2.0 hrs   X
+22249.52W1     2.0 hrs   X        X       
+22249.52W2     2.0 hrs   X        X
+12040.34W1     2.0 hrs   X        X
+12040.34W2     0.5 hrs   X        X
+16240.62W      1.5 hrs   X        X
+16240.70W      1.0 hrs   X        X
+16240.71W      0.5 hrs   X        X
+18441.01W-R2   1.5 hrs   X        X
+10217.04V      1.0 hrs   X        X
+10217.05V      1.0 hrs   X        X
+16410.01W4     0.8 hrs   X        X
+16410.10W      0.75hrs   X        X
+12040.32V      0.5 hrs   X        X
+13042.13V      0.25hrs   X        X
+17043.38W1     2.0 hrs   X        X
+17043.38W2     1.5 hrs   X        X
+17043.38W3     1.0 hrs   X        X
+17043.38W4     1.0 hrs   X        X
+14041.18W1     2.0 hrs   X        X
 --------------------------------------------
                22.8 hrs  X
+
+Date Submitted:
+
+Training completed:
+                        Done    Submitted
+18442.01W-R2   2.0 hrs   X
+18070.45W      2.0 hrs   X
+

@@ -135,7 +135,7 @@ Training completed:
 --------------------------------------------
                22.8 hrs  X
 
-Date Submitted:
+Date Submitted: 06/05/207
 
 Training completed:
                         Done    Submitted
@@ -144,4 +144,5 @@ Training completed:
 18070.45W2     1.0 hrs   X
 18070.47W2     0.5 hrs   X
 18420.01W-R2   2.5 hrs   X
-
+--------------------------------------------
+               8.0 hrs  

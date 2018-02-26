@@ -139,10 +139,19 @@ Date Submitted: 06/05/207
 
 Training completed:
                         Done    Submitted
-18442.01W-R2   2.0 hrs   X
-18070.45W      2.0 hrs   X
-18070.45W2     1.0 hrs   X
-18070.47W2     0.5 hrs   X
-18420.01W-R2   2.5 hrs   X
+18442.01W-R2   2.0 hrs   X	  X
+18070.45W      2.0 hrs   X	  X
+18070.45W2     1.0 hrs   X	  X
+18070.47W2     0.5 hrs   X	  X
+18420.01W-R2   2.5 hrs   X	  X
 --------------------------------------------
                8.0 hrs  
+
+Date Submitted:
+
+Training completed:
+			      Done	Submitted
+10217.06V	1.0 hrs		X
+18420.01W2	1.0 hrs		X
+18450.00W	1.0 hrs		X
+

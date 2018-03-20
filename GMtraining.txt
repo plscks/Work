@@ -154,4 +154,4 @@ Training completed:
 10217.06V	1.0 hrs		X
 18420.01W2	1.0 hrs		X
 18450.00W	1.0 hrs		X
-
+SCFGM.S18W	0.25hrs		X

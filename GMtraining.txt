@@ -151,7 +151,15 @@ Date Submitted: 03/27/2018
 
 Training completed:
 			      Done	Submitted
-10217.06V	1.0 hrs		X
-18420.01W2	1.0 hrs		X
-18450.00W	1.0 hrs		X
-SCFGM.S18W	0.25hrs		X
+10217.06V	1.0 hrs		X	  X
+18420.01W2	1.0 hrs		X	  X
+18450.00W	1.0 hrs		X	  X
+SCFGM.S18W	0.25hrs		X	  X
+---------------------------------------------
+		3.25hrs
+
+Date Submitted:
+
+Training completed:
+
+

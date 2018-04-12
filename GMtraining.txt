@@ -161,5 +161,8 @@ SCFGM.S18W	0.25hrs		X	  X
 Date Submitted:
 
 Training completed:
-
+			      Done    Submitted
+SSM1P.017W2	0.17hrs		X       X
+SSM1P.017W3	0.05hrs		X
+16044.23W4 	2.0 hrs		X
 

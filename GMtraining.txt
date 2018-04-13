@@ -165,4 +165,5 @@ Training completed:
 SSM1P.017W2	0.17hrs		X       X
 SSM1P.017W3	0.05hrs		X
 16044.23W4 	2.0 hrs		X
-
+14043.25W1	1.5 hrs		X
+14043.25W2	1.5 hrs		X

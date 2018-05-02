@@ -169,3 +169,10 @@ SSM1P.017W3	0.05hrs		X	X
 14043.25W2	1.5 hrs		X	X
 ---------------------------------------------------
 		5.22 hrs
+
+Date Submitted:
+
+Training completed:
+				Done	Submitted
+14043.17W1	1.0 hrs		X
+14041.18W2	1.0 hrs		X

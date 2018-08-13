@@ -193,3 +193,7 @@ Date Submitted:
 Training Completed:
 			      Done    Submitted
 17041.55V	1.2 hrs		X	X
+VMVDC.M17W2	0.2 hrs		X	X		*Note, no time listed, I made a flag while I did it though.
+10217.13V	0.2 hrs		X	X		*Note, time listed as 10 minutes.
+14043.17W2	1.0 hrs		X	X
+10217.12V	1.0 hrs		X	X

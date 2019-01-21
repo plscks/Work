@@ -201,21 +201,22 @@ VMVDC.M17W2	0.2 hrs		X	X		*Note, no time listed, I made a flag while I did it th
 ---------------------------------------------------
 		4.6 hrs
 
-Date Submitted:
+Date Submitted: 01/21/2019
 
 Training Completed:
-
-18400.00	0.5 hrs		X
-F1PAH.018W	0.25hrs		X
-FRPCS.018W	0.3 hrs		X
-VMVCC.C18W	0.25hrs		X
-VRPFA.018W1	0.25hrs		X
-17041.73W	0.3 hrs		X
-17041.70V	0.9 hrs		X
-17041.75W	1.0 hrs		X
-17340.16V	1.0 hrs		X
-17041.79W 	0.75hrs		X
-17041.77W	1.0 hrs		X
-17041.80W 	1.0 hrs		X
-16048.45W 	0.75hrs		X
-16341.07W	1.0 hrs		
+			      Done    Submitted	
+18400.00	0.5 hrs		X	X
+F1PAH.018W	0.25hrs		X	X	
+FRPCS.018W	0.3 hrs		X	X
+VMVCC.C18W	0.25hrs		X	X
+VRPFA.018W1	0.25hrs		X	X
+17041.73W	0.3 hrs		X	X
+17041.70V	0.9 hrs		X	X
+17041.75W	1.0 hrs		X	X
+17340.16V	1.0 hrs		X	X
+17041.79W 	0.75hrs		X	X
+17041.77W	1.0 hrs		X	X
+17041.80W 	1.0 hrs		X	X
+16048.45W 	0.75hrs		X	X
+16341.07W	1.0 hrs		X	X
+--------------------------------------------------------

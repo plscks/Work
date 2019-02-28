@@ -221,3 +221,13 @@ VRPFA.018W1	0.25hrs		X	X
 16341.07W	1.0 hrs		X	X
 --------------------------------------------------------
 		9.2 hrs
+
+Date Submitted:
+	
+Training Completed:
+
+16341.03V	1.0 hrs		X
+22048.44W	0.25hrs		X
+22048.50W-R2 	1.0 hrs		X
+15045.19W4 	0.7 hrs		X
+

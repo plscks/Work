@@ -230,4 +230,5 @@ Training Completed:
 22048.44W	0.25hrs		X
 22048.50W-R2 	1.0 hrs		X
 15045.19W4 	0.7 hrs		X
-
+16044.20D	1.5 hrs		X
+14041.18W3 	1.0 hrs		X

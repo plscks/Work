@@ -222,7 +222,7 @@ VRPFA.018W1	0.25hrs		X	X
 --------------------------------------------------------
 		9.2 hrs
 
-Date Submitted:
+Date Submitted: 03/18/2019
 	
 Training Completed:
 
@@ -232,3 +232,5 @@ Training Completed:
 15045.19W4 	0.7 hrs		X
 16044.20D	1.5 hrs		X
 14041.18W3 	1.0 hrs		X
+----------------------------------------
+		5.45 hrs

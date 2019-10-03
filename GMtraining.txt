@@ -99,21 +99,21 @@ Total         14.0 hrs
 Date Submitted:03/27/2017
 
 Training completed:
-                       Done   Submitted 
+                       Done   Submitted
 16410.01D1     2.0 hrs  X       X
 16410.01D2     2.0 hrs  X       X
 16410.01W2     2.0 hrs  X       X
 16410.01W3     2.0 hrs  X       X
 10217.03V      1.0 hrs  X       X
 -----------------------------------
-               9.0 hrs  
+               9.0 hrs
 
 
 Date Submitted: 05/30/2017
 
 Training completed:
                         Done    Submitted
-22249.52W1     2.0 hrs   X        X       
+22249.52W1     2.0 hrs   X        X
 22249.52W2     2.0 hrs   X        X
 12040.34W1     2.0 hrs   X        X
 12040.34W2     0.5 hrs   X        X
@@ -145,7 +145,7 @@ Training completed:
 18070.47W2     0.5 hrs   X	  X
 18420.01W-R2   2.5 hrs   X	  X
 --------------------------------------------
-               8.0 hrs  
+               8.0 hrs
 
 Date Submitted: 03/27/2018
 
@@ -204,9 +204,9 @@ VMVDC.M17W2	0.2 hrs		X	X		*Note, no time listed, I made a flag while I did it th
 Date Submitted: 01/21/2019
 
 Training Completed:
-			      Done    Submitted	
+			      Done    Submitted
 18400.00	0.5 hrs		X	X
-F1PAH.018W	0.25hrs		X	X	
+F1PAH.018W	0.25hrs		X	X
 FRPCS.018W	0.3 hrs		X	X
 VMVCC.C18W	0.25hrs		X	X
 VRPFA.018W1	0.25hrs		X	X
@@ -223,7 +223,7 @@ VRPFA.018W1	0.25hrs		X	X
 		9.2 hrs
 
 Date Submitted: 03/18/2019
-	
+
 Training Completed:
 
 16341.03V	1.0 hrs		X
@@ -247,4 +247,8 @@ Training Completed:
 10218.04V 	1.0 hrs		X
 10218.05V 	1.0 hrs		X
 ----------------------------------------
-		6.0 hrs	
+		6.0 hrs
+
+10218.06V 	1.0 hrs		X
+17041.74W   .75 hrs   X
+17041.85V   .70 hrs   

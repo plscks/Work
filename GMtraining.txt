@@ -248,6 +248,7 @@ Training Completed:
 10218.05V 	1.0 hrs		X
 ----------------------------------------
 		6.0 hrs
+    
 Date Submitted 03/16/2020
 
 Training Completed:

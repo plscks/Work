@@ -248,7 +248,12 @@ Training Completed:
 10218.05V 	1.0 hrs		X
 ----------------------------------------
 		6.0 hrs
+Date Submitted 03/16/2020
+
+Training Completed:
 
 10218.06V 	1.0 hrs		X
 17041.74W   .75 hrs   X
 17041.85V   .70 hrs   X
+----------------------------------------
+            2.45 hrs

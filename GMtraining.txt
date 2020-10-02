@@ -258,3 +258,15 @@ Training Completed:
 17041.85V   .70 hrs   X
 ----------------------------------------
             2.45 hrs
+
+Date Submitted
+
+Training Completed:
+
+SCFGM.020W1     0.25 hrs		X
+FRPCS.020W1     0.25 hrs        X
+F1PAH.020W1     0.25 hrs        X
+10040.15V       0.20 hrs        X
+18044.22W1      1.00 hrs        X
+
+----------------------------------------

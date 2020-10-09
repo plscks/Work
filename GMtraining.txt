@@ -259,7 +259,7 @@ Training Completed:
 ----------------------------------------
             2.45 hrs
 
-Date Submitted
+Date Submitted 10/09/2020
 
 Training Completed:
 
@@ -268,5 +268,6 @@ FRPCS.020W1     0.25 hrs        X
 F1PAH.020W1     0.25 hrs        X
 10040.15V       0.20 hrs        X
 18044.22W1      1.00 hrs        X
-
+VRPFA.020W1     0.25 hrs        X
+VMVFA.019W5     0.25 hrs        X
 ----------------------------------------

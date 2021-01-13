@@ -284,3 +284,5 @@ SCFGM.021W1     0.25 hrs        X
 FRPCS.021W1     0.25 hrs        X
 F1PAH.021W1     0.25 hrs        X
 10040.15W       0.5 hrs         X
+10042.00W       1.0 hrs         X
+10042.10V       1.0 hrs
